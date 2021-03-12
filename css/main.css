@@ -1,16 +1,18 @@
 html {
   box-sizing: border-box;
   background-color: #f2f1ed;
-  font-family: 'Patua One', sans-serif;
+  font-family: "Patua One", sans-serif;
   line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
 img {
   width: 100%;
 }
+
 h1, h2 {
   font-family: 'Patua One', san-serif;
   color: #5d8432;
@@ -22,11 +24,13 @@ figcaption {
   font-style: italic;
   text-align: center;
 }
+
 nav {
-  font-family: 'patua One', sans-serif;
+  font-family: "patua One", sans-serif;
   font-size: 1.125rem;
   font-weight: bold;
 }
+
 nav ol {
   list-style-type: none;
 }
@@ -35,10 +39,12 @@ nav a {
   color: #793284;
   text-decoration: none;
 }
+
 nav a:hover {
   color: #b42885;
   text-decoration: underline;
 }
+
 .intro {
   font-size: 1rem;
 }
